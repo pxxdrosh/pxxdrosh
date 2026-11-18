@@ -70,10 +70,10 @@ Areas of interest include:
 
 | Title | Target |
 | --- | --- |
-| [Minecraft Bedrock RCE — ORE-UI](https://blog.nfo.lat/minecraft-bedrock-ore-ui-rce) | Minecraft Bedrock |
-| [DeadSwitch3 RCE — Electron](https://blog.nfo.lat/deadswitch3-electron-rce) | DeadSwitch3 |
-| [Discord RCE](https://blog.nfo.lat/discord-rce) | Discord |
-| [Red Eclipse Steam Game RCE](https://blog.nfo.lat/red-eclipse-steam-game-rce) | Red Eclipse |
+| [Minecraft Bedrock's ORE-UI Had a Code Execution Problem](https://blog.nfo.lat/minecraft-bedrock-ore-ui-rce) | Minecraft Bedrock |
+| [DeadSwitch3 and Electron: When the Desktop App Crossed the Line](https://blog.nfo.lat/deadswitch3-electron-rce) | DeadSwitch3 |
+| [My First CVE: Discord RCE](https://blog.nfo.lat/discord-rce) | Discord |
+| [Red Eclipse Steam Game Wasn't Supposed to Execute Code](https://blog.nfo.lat/red-eclipse-steam-game-rce) | Red Eclipse |
 
 ## `$ cat principles.txt`
 
