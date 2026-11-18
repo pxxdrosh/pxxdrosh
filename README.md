@@ -8,9 +8,25 @@ root@0xnfo:~# whoami
 
 **Security Researcher & Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopxdro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopxdro/)
-[![GitHub](https://img.shields.io/badge/GitHub-pxxdrosh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pxxdrosh)
-[![Twitter](https://img.shields.io/badge/Twitter-0xnfo-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xnfo)
+<p>
+  <a href="https://github.com/pxxdrosh">
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" height="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/0xnfo">
+    <img src="https://cdn.simpleicons.org/x/white" alt="X / Twitter" height="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaopxdro/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/pxxdrosh"><strong>GitHub · @pxxdrosh</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://twitter.com/0xnfo"><strong>X · @0xnfo</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/joaopxdro/"><strong>LinkedIn · @joaopxdro</strong></a>
+</p>
 
 </div>
 
