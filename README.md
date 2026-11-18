@@ -1,32 +1,87 @@
 <div align="center">
 
 ```console
-$ ls ./0day-blog/
+root@0xnfo:~# whoami
 ```
 
-# 0day-blog
+# 0xnfo / pxxdrosh
 
-**Security research, vulnerability notes, and responsible disclosure**
+**Security Researcher & Software Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopxdro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopxdro/)
+[![GitHub](https://img.shields.io/badge/GitHub-pxxdrosh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pxxdrosh)
+[![Twitter](https://img.shields.io/badge/Twitter-0xnfo-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/0xnfo)
 
 </div>
 
 ---
 
-> A collection of vulnerability research and technical notes. Details are intentionally limited to avoid enabling abuse; testing should be performed only on systems you own or are explicitly authorized to assess.
+```console
+$ cat /etc/motd
+```
 
-## Findings
+> Offensive security, vulnerability research, anti-DDoS engineering, and software development. I study how systems fail, build tools to make them more resilient, and document what I learn.
 
-| Title | Target | Category | Status |
-|:------|:-------|:---------|:-------|
-| [Minecraft Bedrock RCE — ORE-UI](https://blog.nfo.lat/minecraft-bedrock-ore-ui-rce) | Minecraft Bedrock | RCE | Research / attribution noted |
-| [DeadSwitch3 RCE — Electron](https://blog.nfo.lat/deadswitch3-electron-rce) | DeadSwitch3 | RCE | Research note |
-| [Discord RCE](https://blog.nfo.lat/discord-rce) | Discord | RCE | Research note |
-| [Red Eclipse Steam Game RCE](https://blog.nfo.lat/red-eclipse-steam-game-rce) | Red Eclipse | RCE | Research note |
+## `$ cat about.txt`
 
-## Attribution
+I'm **0xnfo**, also known as **pxxdrosh** — a security researcher and software engineer interested in the intersection between offensive security, infrastructure, and defensive engineering.
 
-The **Minecraft Bedrock ORE-UI** entry documents research related to the issue; the author of this README was **not the original creator** of that vulnerability.
+My work focuses on understanding complex systems, identifying weaknesses, and turning research into practical solutions. I enjoy digging into codebases, analyzing protocols, automating repetitive tasks, and building reliable tools from the ground up.
 
-## Responsible disclosure
+## `$ cat interests.txt`
 
-These notes are intended for educational and defensive security research. Do not reproduce, deploy, or distribute exploit code against third-party systems. Coordinate with the affected vendor or project and follow applicable laws, rules, and disclosure policies.
+- Vulnerability research and responsible disclosure
+- Web, API, network, and infrastructure security
+- Reverse engineering and security automation
+- Anti-DDoS architecture and traffic mitigation
+- Rate limiting, WAFs, proxies, and edge protection
+- Secure software engineering and hardening
+- Technical writing and security research
+
+## `$ cat anti-ddos.md`
+
+### Anti-DDoS & Infrastructure Resilience
+
+I study and build defensive strategies designed to keep services available under abusive or unusually high traffic conditions. This includes understanding attack patterns, reducing exposed attack surface, and designing layered mitigation instead of relying on a single protection mechanism.
+
+Areas of interest include:
+
+- **Traffic analysis:** distinguishing legitimate bursts from volumetric, protocol, and application-layer attacks.
+- **Rate limiting:** applying adaptive limits based on identity, endpoint, reputation, and request behavior.
+- **Layered mitigation:** combining CDN/edge filtering, reverse proxies, WAF rules, caching, and origin protection.
+- **Network hardening:** reducing unnecessary exposure and isolating critical services.
+- **Observability:** using logs, metrics, alerts, and baselines to identify anomalies early.
+- **Resilience testing:** validating that defensive controls fail safely and preserve access for legitimate users.
+
+> Security research and testing should be performed only on systems you own or are explicitly authorized to assess.
+
+## `$ ls ./0day-blog/`
+
+| Title | Target |
+|:------|:-------|
+| [Minecraft Bedrock RCE — ORE-UI](https://blog.nfo.lat/minecraft-bedrock-ore-ui-rce) | Minecraft Bedrock |
+| [DeadSwitch3 RCE — Electron](https://blog.nfo.lat/deadswitch3-electron-rce) | DeadSwitch3 |
+| [Discord RCE](https://blog.nfo.lat/discord-rce) | Discord |
+| [Red Eclipse Steam Game RCE](https://blog.nfo.lat/red-eclipse-steam-game-rce) | Red Eclipse |
+
+## `$ cat principles.txt`
+
+```text
+Understand the system.
+Assume nothing is isolated.
+Reduce the attack surface.
+Automate what can be automated.
+Document what others can reproduce.
+Build defenses that work under pressure.
+```
+
+## `$ echo $CONTACT`
+
+- LinkedIn: [@joaopxdro](https://www.linkedin.com/in/joaopxdro/)
+- GitHub: [@pxxdrosh](https://github.com/pxxdrosh)
+- Twitter/X: [@0xnfo](https://twitter.com/0xnfo)
+
+```console
+root@0xnfo:~# exit
+logout
+```
